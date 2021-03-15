@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RodolfoParada
   - 👀 I’m interested in learn  programmar
 - 🌱 I’m currently learning java , kotlin and android studio
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on proyectos en Chile
 - 📫 How to reach me ...
 
 <!---
