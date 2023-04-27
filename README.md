@@ -30,4 +30,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfo&show_icons=true&locale=en" alt="rodolfo" /> </p>
 
-<p><img align="center" src="https://www.linkedin.com/in/rodolfoparada/" alt="rodolfo" /></p>
+<a  align="center" href="https://www.linkedin.com/in/rodolfoparada/" alt="rodolfo" ></a>
