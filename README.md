@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/rodolfo parada" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfo parada" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfo&show_icons=true&locale=en&layout=compact" alt="rodolfo" /> </p>
+<p><img align="left" src="https://www.credly.com/badges/31658f83-217f-4702-8dff-c93e7265956c" alt="rodolfo" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfo&show_icons=true&locale=en" alt="rodolfo" /> </p>
 
