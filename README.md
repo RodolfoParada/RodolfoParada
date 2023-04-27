@@ -1,7 +1,7 @@
-<h2 align="center">Hola!, soy Rodolfo</h1>
+<h2 align="center">Hola!, soy Rodolfo.</h1>
 <h3 align="center">En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica obteniendo nuevos conocimientos a través de diferentes bootcamp.</h3>
 
-<h3 align="center">Este Github es mi personal subo distintos tipos de proyectos básicos, complejos, actividades de cursos, etc.</h3>
+<h3 align="center">Este es mi Github personal,  aquí subo distintos tipos de proyectos básicos, complejos, actividades de cursos,actividades de clases, etc.</h3>
 <h3 align="left">Mis cursos en Programación:</h3>
 
 <h4>*Desarrollo aplicanes Frontend, adquirí insignia digital: https://app.aluracursos.com/user/rodolfo-parada-gonzalez/fullCertificate/d1a4bbad6c89a116980158d484a632bc <h4> 
