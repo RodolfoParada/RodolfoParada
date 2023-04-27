@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://www.credly.com/badges/31658f83-217f-4702-8dff-c93e7265956c" alt="rodolfo" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfo&show_icons=true&locale=en" alt="rodolfo" /> </p>
-
-<a  align="center" href="https://www.linkedin.com/in/rodolfoparada/" alt="rodolfo" ></a>
+<a  align="center" href="https://www.linkedin.com/in/rodolfoparada/" alt="rodolfo" >hola</a>
