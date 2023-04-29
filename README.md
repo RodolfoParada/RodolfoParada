@@ -17,4 +17,6 @@
 <h3 align="center"><a  align="center" href="https://www.linkedin.com/in/rodolfoparada/" alt="rodolfo" ></a></h3>
   
   [Visita Google](https://www.google.com)
+  
+  [Linkeding](https://www.linkedin.com/in/rodolfoparada/)
 
