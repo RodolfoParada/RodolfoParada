@@ -31,11 +31,10 @@
  [Contactame](https://www.linkedin.com/in/rodolfoparada/)
   
   
-  <img src="https://user-images.githubusercontent.com/73254069/235309121-e90429b8-347e-413f-b763-c081c6de4839.png" height="24"/><img src="https://user-images.githubusercontent.com/73254069/235309721-65914971-254e-477b-9d23-ea9a658315e8.png" height="24"/>
+  <img src="https://user-images.githubusercontent.com/73254069/235309121-e90429b8-347e-413f-b763-c081c6de4839.png" height="20"/><img src="https://user-images.githubusercontent.com/73254069/235309721-65914971-254e-477b-9d23-ea9a658315e8.png" height="24"/>
   
   
-  
-  ![image](https://user-images.githubusercontent.com/73254069/235309721-65914971-254e-477b-9d23-ea9a658315e8.png)
+
 
  
  
