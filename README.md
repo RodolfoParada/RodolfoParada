@@ -19,6 +19,11 @@
   [Contactame](https://www.linkedin.com/in/rodolfoparada/)
   
   
+  
+  ![image](https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png)
+
+  
+  
 
 
   
