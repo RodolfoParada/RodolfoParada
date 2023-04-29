@@ -1,5 +1,5 @@
 <h2 align="center">Hola!, soy Rodolfo.</h1>
-<h3 align="center">En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica obteniendo nuevos conocimientos a través de diferentes bootcamp.</h3>
+<h3 align="center">En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica obteniendo nuevos conocimientos a través de diferentes bootcamps.</h3>
 
 <h3 align="center">Este es mi Github personal,  aquí subo distintos tipos de proyectos básicos, complejos, actividades de cursos,actividades de clases, etc.</h3>
 
