@@ -13,7 +13,7 @@
 
 
 
-* Lo que estudie pero no he usado: <img src="https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png" height="26"/> 
+* Lo que estudie pero no he usado: <img src="https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png" height="30"/> 
 
 
 
