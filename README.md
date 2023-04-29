@@ -18,5 +18,5 @@
   
   [Visita Google](https://www.google.com)
   
-  [Linkeding](https://www.linkedin.com/in/rodolfoparada/)
+  [Contactame](https://www.linkedin.com/in/rodolfoparada/)
 
