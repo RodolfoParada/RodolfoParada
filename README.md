@@ -14,13 +14,19 @@
 * [Scrum Foundation Profesional Certificate - SFPC, adquirí insignia digital](https://www.credly.com/earner/earned/badge/42d19e8d-cb4d-4a34-9fbb-b793fbeeebb7)  
 
 
-- 🌱 Actualmente estoy aprendiendo **Javascript**, **Vue**
+- Actualmente estoy aprendiendo ![image](https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png), ![image](https://user-images.githubusercontent.com/73254069/235308927-dfd6d931-81fc-4105-9003-dd9b297c796d.png)
   
   [Contactame](https://www.linkedin.com/in/rodolfoparada/)
   
   
   
   ![image](https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png)
+  
+  ![image](https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png)
+  
+  ![image](https://user-images.githubusercontent.com/73254069/235308927-dfd6d931-81fc-4105-9003-dd9b297c796d.png)
+
+
 
   
   
