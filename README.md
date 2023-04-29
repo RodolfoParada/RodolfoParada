@@ -8,7 +8,7 @@
 
 * Framework de diseño que manejo: ![image](https://user-images.githubusercontent.com/73254069/235309121-e90429b8-347e-413f-b763-c081c6de4839.png)![image](https://user-images.githubusercontent.com/73254069/235309175-12393c40-d4cc-4b3e-bbfd-5beff39100e4.png)
 
-* Lo que me gustaría aprender: ![image](https://user-images.githubusercontent.com/73254069/235309366-e0ad8613-c822-4943-aba9-6e1c75672712.png)![image](https://user-images.githubusercontent.com/73254069/235309396-9eefdaa1-8007-40e4-bf2b-ac6a8f9bdaaf.png)![image](https://user-images.githubusercontent.com/73254069/235309404-a1e290a4-7b72-4457-8eea-2567d56904cb.png)
+* Lo que me gustaría aprender: ![image](https://user-images.githubusercontent.com/73254069/235309366-e0ad8613-c822-4943-aba9-6e1c75672712.png) ![image](https://user-images.githubusercontent.com/73254069/235309396-9eefdaa1-8007-40e4-bf2b-ac6a8f9bdaaf.png) ![image](https://user-images.githubusercontent.com/73254069/235309404-a1e290a4-7b72-4457-8eea-2567d56904cb.png)
 
 
 
@@ -35,7 +35,6 @@
  
  
 
-![image](https://user-images.githubusercontent.com/73254069/235309389-6b720110-0396-4f2d-8a12-ab33cffdbab4.png)
 
   
   
