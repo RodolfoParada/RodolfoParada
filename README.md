@@ -9,19 +9,17 @@
 
 * [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f) 
 
-* [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f)  
+* [Desarrollo aplicaciones móviles android trainee, adquirí insignia digital:](https://www.credly.com/badges/31658f83-217f-4702-8dff-c93e7265956c )  
   
-  
-  <h4>*Desarrollo aplicaciones full stack java trainne, adquirí insignia digital: https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f <h4> 
-<h4>*Desarrollo aplicaciones móviles android trainee, adquirí insignia digital: https://www.credly.com/badges/31658f83-217f-4702-8dff-c93e7265956c <h4>
-<h4>*Scrum Foundation Profesional Certificate - SFPC, adquirí insignia digital: https://www.credly.com/earner/earned/badge/42d19e8d-cb4d-4a34-9fbb-b793fbeeebb7<h4>
+* [Scrum Foundation Profesional Certificate - SFPC, adquirí insignia digital](https://www.credly.com/earner/earned/badge/42d19e8d-cb4d-4a34-9fbb-b793fbeeebb7)  
+
 
 - 🌱 Actualmente estoy aprendiendo **Javascript**, **Vue**
   
   [Contactame](https://www.linkedin.com/in/rodolfoparada/)
   
   
-  [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f)  
+
 
   
-    [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.linkedin.com/in/rodolfoparada/)
+  
