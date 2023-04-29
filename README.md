@@ -11,7 +11,7 @@
 * Lo que me gustaría aprender: <img src="https://user-images.githubusercontent.com/73254069/235309366-e0ad8613-c822-4943-aba9-6e1c75672712.png" height="24"/><img src="https://user-images.githubusercontent.com/73254069/235309396-9eefdaa1-8007-40e4-bf2b-ac6a8f9bdaaf.png" height="24"/><img src="https://user-images.githubusercontent.com/73254069/235309404-a1e290a4-7b72-4457-8eea-2567d56904cb.png" height="24"/><img src="https://user-images.githubusercontent.com/73254069/235310229-b2b0ef15-8f0d-4bd3-98d4-717c605f939c.png" height="24"/> 
 
 
-* Lo que estudie pero no he usado: <img src="https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png" height="30"/><img src="https://user-images.githubusercontent.com/73254069/235311401-52ddd6bd-3a31-4d70-8b76-c4a2f64bc849.png" height="24"/> 
+* Lo que estudie pero no he usado en el trabajo: <img src="https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png" height="30"/><img src="https://user-images.githubusercontent.com/73254069/235311401-52ddd6bd-3a31-4d70-8b76-c4a2f64bc849.png" height="24"/> 
 
 
 
