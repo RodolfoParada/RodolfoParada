@@ -16,5 +16,5 @@
   [Contactame](https://www.linkedin.com/in/rodolfoparada/)
   
   
-  [Ver más](https://app.aluracursos.com/user/rodolfo-parada-gonzalez/fullCertificate/d1a4bbad6c89a116980158d484a632bc)  
+  [Desarrollo aplicaciones Frontend, adquirí certificado digital:](https://app.aluracursos.com/user/rodolfo-parada-gonzalez/fullCertificate/d1a4bbad6c89a116980158d484a632bc)  
 
