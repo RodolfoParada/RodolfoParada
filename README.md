@@ -8,6 +8,7 @@
 
 * Framework de diseño que manejo: ![image](https://user-images.githubusercontent.com/73254069/235309121-e90429b8-347e-413f-b763-c081c6de4839.png)![image](https://user-images.githubusercontent.com/73254069/235309175-12393c40-d4cc-4b3e-bbfd-5beff39100e4.png)
 
+* Lo que estudie pero no he usado: ![image](https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png)
 
 
 
@@ -27,9 +28,7 @@
   
   
  
-  ![image](https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png)
-  
-  ![image](https://user-images.githubusercontent.com/73254069/235308927-dfd6d931-81fc-4105-9003-dd9b297c796d.png)
+ 
 
 
   
