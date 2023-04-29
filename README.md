@@ -5,7 +5,7 @@
 
 <h3 align="left">Mis cursos en Programación:</h3>
 
-<h4>*Desarrollo aplicaciones Frontend, adquirí certificado digital: [Ver más][1] [1]:https://app.aluracursos.com/user/rodolfo-parada-gonzalez/fullCertificate/d1a4bbad6c89a116980158d484a632bc <h4> 
+<h4>*Desarrollo aplicaciones Frontend, adquirí certificado digital: [Ver más] [:https://app.aluracursos.com/user/rodolfo-parada-gonzalez/fullCertificate/d1a4bbad6c89a116980158d484a632bc] <h4> 
 <h4>*Desarrollo aplicaciones full stack java trainne, adquirí insignia digital: https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f <h4> 
 <h4>*Desarrollo aplicaciones móviles android trainee, adquirí insignia digital: https://www.credly.com/badges/31658f83-217f-4702-8dff-c93e7265956c <h4>
 <h4>*Scrum Foundation Profesional Certificate - SFPC, adquirí insignia digital: https://www.credly.com/earner/earned/badge/42d19e8d-cb4d-4a34-9fbb-b793fbeeebb7<h4>
