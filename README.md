@@ -7,7 +7,9 @@
 
 * [Desarrollo aplicaciones Frontend, adquirí certificado digital:](https://app.aluracursos.com/user/rodolfo-parada-gonzalez/fullCertificate/d1a4bbad6c89a116980158d484a632bc) 
 
+* [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f) 
 
+* [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f)  
   
   
   <h4>*Desarrollo aplicaciones full stack java trainne, adquirí insignia digital: https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f <h4> 
@@ -22,4 +24,4 @@
   [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.credly.com/earner/earned/badge/d2717f5a-f03e-482f-8108-4eb17e53410f)  
 
   
-    [Contactame](https://www.linkedin.com/in/rodolfoparada/)
+    [Desarrollo aplicaciones full stack java trainne, adquirí insignia digital:](https://www.linkedin.com/in/rodolfoparada/)
