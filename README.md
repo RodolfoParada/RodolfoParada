@@ -28,11 +28,14 @@
   
 * [Scrum Foundation Profesional Certificate - SFPC, adquirí insignia digital](https://www.credly.com/earner/earned/badge/42d19e8d-cb4d-4a34-9fbb-b793fbeeebb7) 
   
- [Contactame](https://www.linkedin.com/in/rodolfoparada/)
+ 
+ <h3 align="Contactame:</h3>
+ 
+ [Aquí contactame](https://www.linkedin.com/in/rodolfoparada/)
   
   
-  <img src="https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png" height="24"/> 
-
+  
+ 
 
   
   
