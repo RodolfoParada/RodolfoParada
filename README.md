@@ -14,7 +14,7 @@
 * Lo que estudie pero no he usado en el trabajo: <img src="https://user-images.githubusercontent.com/73254069/235308855-cd3a9477-7b5c-4838-9f96-9fc1026939d7.png" height="30"/><img src="https://user-images.githubusercontent.com/73254069/235311401-52ddd6bd-3a31-4d70-8b76-c4a2f64bc849.png" height="24"/> 
 
 
-
+/*
 <h3 align="left">Mis cursos en Programación:</h3>
 
 * [Desarrollo aplicaciones Frontend, adquirí certificado digital:](https://app.aluracursos.com/user/rodolfo-parada-gonzalez/fullCertificate/d1a4bbad6c89a116980158d484a632bc) 
@@ -26,7 +26,7 @@
   
 * [Scrum Foundation Profesional Certificate - SFPC, adquirí insignia digital](https://www.credly.com/earner/earned/badge/42d19e8d-cb4d-4a34-9fbb-b793fbeeebb7) 
   
- 
+ */
 
  
  [Aquí contactame](https://www.linkedin.com/in/rodolfoparada/)
