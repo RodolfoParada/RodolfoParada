@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1&color=F4F7F7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=%C2%A1Hola!%2C+Soy+Rodolfo." alt="Typing SVG" /></a></h1>
 
-
-
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=En+los+%C3%BAltimos+3+a%C3%B1os+he+estado+en+un+proceso+de+Reinvenci%C3%B3n+para+Ingresar+a+la+Industria+Tecnol%C3%B3gica+obteniendo+nuevos+conocimientos+a+trav%C3%A9s+de+diferentes+bootcamps.;Este+es+mi+Github+personal%2C++aqu%C3%AD+subo+distintos+tipos+de+proyectos+b%C3%A1sicos%2C+complejos%2C+actividades+de+cursos%2Cactividades+de+clases%2C+etc." alt="Typing SVG" /></a></p>
 
 
 <h3 align="center">En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica obteniendo nuevos conocimientos a través de diferentes bootcamps.</h3>
