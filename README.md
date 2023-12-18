@@ -4,7 +4,7 @@
 
 
 
-<p align="center"><b>En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica<br>obteniendo nuevos conocimientos a través de diferentes bootcamps.</b></p>
+<h3 align="center"><b>En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica<br>obteniendo nuevos conocimientos a través de diferentes bootcamps.</b></h3>
 
 <h3 align="center">Este es mi Github personal,  aquí subo distintos tipos de proyectos básicos, complejos, actividades de cursos,actividades de clases, etc.</h3>
 
