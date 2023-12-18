@@ -1,4 +1,4 @@
-<h1 align="center">Hola!, soy Rodolfo.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"</h1>
+<h1 align="center"><b>Hola!, soy Rodolfo.</b></h1>
 <h3 align="center">En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica obteniendo nuevos conocimientos a través de diferentes bootcamps.</h3>
 
 <h3 align="center">Este es mi Github personal,  aquí subo distintos tipos de proyectos básicos, complejos, actividades de cursos,actividades de clases, etc.</h3>
