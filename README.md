@@ -1,4 +1,11 @@
 <h1 align="center"><b>Hola!, soy Rodolfo.</b></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+
+
 <h3 align="center">En los últimos 3 años he estado en un proceso de Reinvención para Ingresar a la Industria Tecnológica obteniendo nuevos conocimientos a través de diferentes bootcamps.</h3>
 
 <h3 align="center">Este es mi Github personal,  aquí subo distintos tipos de proyectos básicos, complejos, actividades de cursos,actividades de clases, etc.</h3>
