@@ -1,7 +1,5 @@
-<h1 align="center"><b>Hola!, soy Rodolfo.</b></h1>
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=%C2%A1Hola!%2C+Soy+Rodolfo." alt="Typing SVG" /></a>
-</p>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1&color=F4F7F7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=%C2%A1Hola!%2C+Soy+Rodolfo." alt="Typing SVG" /></a></h1>
+
 
 
 
