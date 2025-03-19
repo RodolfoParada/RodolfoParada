@@ -9,7 +9,7 @@
 <h3 align="center"><b>Este es mi GitHub personal, aquí subo distintos tipos de proyectos básicos, complejos, actividades de cursos, actividades de clases, etc.</b></h3>
 
  
-* Actualmente estoy aprendiendo : <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/><img src="https://user-images.githubusercontent.com/73254069/235308927-dfd6d931-81fc-4105-9003-dd9b297c796d.png" height="24"/>  <img src="https://user-images.githubusercontent.com/73254069/235310322-52accda8-96d2-4e16-92d4-4fd65a0ab31e.png" height="24"/>
+* Actualmente estoy practicando : <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/><img src="https://user-images.githubusercontent.com/73254069/235308927-dfd6d931-81fc-4105-9003-dd9b297c796d.png" height="24"/>  <img src="https://user-images.githubusercontent.com/73254069/235310322-52accda8-96d2-4e16-92d4-4fd65a0ab31e.png" height="24"/>
 
 * Framework de diseño que manejo: <img src="https://user-images.githubusercontent.com/73254069/235309121-e90429b8-347e-413f-b763-c081c6de4839.png" height="28"/><img src="https://user-images.githubusercontent.com/73254069/235309721-65914971-254e-477b-9d23-ea9a658315e8.png" height="22"/>
 
