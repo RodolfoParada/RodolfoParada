@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Rodolfo%20Parada&fontSize=50&fontColor=ffffff&fontAlignY=45" alt="Rodolfo Parada" width="100%"/>
 </p>
 
-<h2 align="center">Desarrollador Full Stack Java · Android · Frontend</h2>
+<h2 align="center">Desarrollador Full Stack | UX | SCRUM | JAVASCRIPT | NODE.JS | REACT</h2>
 
 <p align="center">
   Profesional en reinvención hacia la industria tecnológica desde 2020.<br/>
