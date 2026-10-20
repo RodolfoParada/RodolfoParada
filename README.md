@@ -7,7 +7,7 @@
 
 <p align="center">
   En el 2020 me reinvente hacia la industria tecnológica vengo de la administración de empresas y marketing.<br/>
-  Aprendí desarrollo web, móviles con diferentes lenguajes y framwork Java, Javascript, Node.js, Spring Boot, React, Vue.js<br/>
+  Aprendí desarrollo web, móvil con diferentes lenguajes y framwork Java, Javascript, Node.js, Spring Boot, React, Vue.js<br/>
   y aplico metodologías ágiles (Scrum) en el desarrollo de proyectos.
   Hoy estoy adaptandome en plena revolución de la IA.
 </p>
