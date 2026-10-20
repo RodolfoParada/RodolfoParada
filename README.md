@@ -6,9 +6,10 @@
 <h2 align="center">Desarrollador Full Stack | UX | SCRUM | JAVASCRIPT | NODE.JS | REACT</h2>
 
 <p align="center">
-  Profesional en reinvención hacia la industria tecnológica desde 2020.<br/>
-  Construyo aplicaciones web y móviles con Java, Spring Boot y JavaScript,<br/>
+  En el 2020 me reinvente hacia la industria tecnológica.<br/>
+  Aprendí desarrollo web, móviles con diferentes lenguajes y framwork Java, Javascript, Node.js, Spring Boot, React, Vue.js<br/>
   y aplico metodologías ágiles (Scrum) en el desarrollo de proyectos.
+  Hoy estoy adaptandome en plena revolución de la IA.
 </p>
 
 ---
