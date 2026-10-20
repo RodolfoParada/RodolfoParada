@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Rodolfo%20Parada&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20Java%20%7C%20Android&descSize=18&descAlignY=58" alt="Rodolfo Parada - Desarrollador Full Stack Java" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Rodolfo%20Parada&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20Java%20%7C%20Android&descSize=18&descAlignY=58" alt="Rodolfo Parada - Desarrollador Full Stack | UX | Marketing | IA " width="100%"/>
 </p>
 
-<h2 align="center">Desarrollador Full Stack Java · Android · Frontend</h2>
+<h2 align="center">Desarrollador Full Stack</h2>
 
 <p align="center">
   Profesional en reinvención hacia la industria tecnológica desde 2020.<br/>
-  Construyo aplicaciones web y móviles con Java, Spring Boot y JavaScript,<br/>
+  Construyo aplicaciones web y móviles con Java, Spring Boot, Node.js, JavaScript, React, Wordpress,<br/>
   y aplico metodologías ágiles (Scrum) en el desarrollo de proyectos.
 </p>
 
@@ -68,16 +68,15 @@
   <a href="https://www.linkedin.com/in/rodolfoparada/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://rodolfofreelance.cl">
+    <img src="https://img.shields.io/badge/Sitio_Web-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web: rodolfofreelance.cl"/>
+  </a>
 </p>
 
 <!-- Cierre del banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f2027,50:203a43,100:2c5364&section=footer" alt="" width="100%"/>
 </p>
-
-  
-
-
   
 
 
