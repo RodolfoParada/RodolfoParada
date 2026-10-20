@@ -65,11 +65,12 @@
 
 ### 📫 Contacto
 
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/rodolfoparada/">
+  <a href="https://www.linkedin.com/in/rodolfoparada/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://rodolfofreelance.cl">
+  <a href="https://rodolfofreelance.cl" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Sitio_Web-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web: rodolfofreelance.cl"/>
   </a>
 </p>
