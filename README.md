@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Rodolfo%20Parada&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20Java%20%7C%20Android&descSize=18&descAlignY=58" alt="Rodolfo Parada - Desarrollador Full Stack | UX | Marketing | IA " width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Rodolfo%20Parada&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%Size=18&descAlignY=58" alt="Rodolfo Parada - Desarrollador Full Stack | UX | Marketing | IA " width="100%"/>
 </p>
 
 <h2 align="center">Desarrollador Full Stack</h2>
